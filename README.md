@@ -26,7 +26,11 @@ Sou estudante de Engenharia da Computação e sou extremamente apaixonada pela t
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mirellaor&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
 
+![Snake animation](https://github.com/mirellaor/mirellaor/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
