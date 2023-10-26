@@ -7,7 +7,7 @@
 Sou estudante de Engenharia da Computação e sou extremamente apaixonada pela tecnologia. Atualmente, estou aprofundando meu conhecimento no desenvolvimento de software com foco em Back-end, descobrindo e colocando em prática soluções eficazes para o crescimento das empresas.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 <a href="https://www.linkedin.com/in/mirellareboucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "mailto:cmp.1a.mirellaoliveeira17@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
