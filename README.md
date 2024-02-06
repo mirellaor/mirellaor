@@ -17,10 +17,14 @@ Sou estudante de Engenharia da Computação e sou extremamente apaixonada pela t
 
 ## 📊 GitHub Stats:
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mirellaor&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Mirella Rebouças github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellaor&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/mirellaor">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mirellaor&show_icons=true&theme=blue-green&count_private=true&cache_seconds=1800"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirellaor&layout=compact&langs_count=7&theme=blue-green&cache_seconds=1800"/>
+  </a>
 </div>
+
+
 
 <div align="center">
 
